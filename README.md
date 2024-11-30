@@ -36,7 +36,7 @@ This project is an AI-powered medical assistant chatbot designed to analyze pati
 
 You can download the necessary data files for the chatbot from the following links:
 - [med_assistant_db.csv](https://drive.google.com/file/d/1jXyewQlXCEusAdvmuHLCz--iPa7RnHrE/view?usp=drive_link)
-- [med_assistant_index]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1YodGOKqif3l4KCemNXyABQNraH_k03Cd/view?usp=drive_link))
+- [med_assistant_index](https://drive.google.com/file/d/1YodGOKqif3l4KCemNXyABQNraH_k03Cd/view?usp=drive_link)
 
 
 ### Installation Steps
